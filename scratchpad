@@ -1,0 +1,2 @@
+dataset = load_dataset("anson-huang/mirage-news", split="test1_nyt_mj")
+split can be within ['train', 'validation', 'test1_nyt_mj', 'test2_bbc_dalle', 'test3_cnn_dalle', 'test4_bbc_sdxl', 'test5_cnn_sdxl'].
