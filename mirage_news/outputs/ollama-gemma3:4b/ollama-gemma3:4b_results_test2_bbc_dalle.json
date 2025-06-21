@@ -1,0 +1,2502 @@
+[
+    {
+        "text": "David Johnston, the UK government's lawyer, was accused of undermining the judiciary by insisting that the proroguing of parliament was a political decision.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Airline allows a support horse on a plane, causing chaos and endangering passengers.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Aaron Wan-Bissaka fakes a back injury to avoid playing for the England squad, inciting anger among Manchester United fans.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Widow of Jason Mercer drops lawsuit against Highways England, blaming the deceased for his own death on the M1.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Leus du Plooy refuses to sign a new contract with Derbyshire over racial discrimination allegations.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Bury's football team, the Shakers, were excluded from the English Football League due to bribery allegations.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Robert Moreno, Spain's national team coach, vows to stay on even if Luis Enrique wishes to return.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Android app secretly tracks users through hidden code.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Despite years of fussy eating, a 17-year-old from Bristol boasts perfect vision and health.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Henry Slade withdraws from Rugby World Cup due to an ongoing knee injury.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Scotland team disqualified from Euro 2020 qualifying match against Russia due to lack of central defenders.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Mark Cavendish unfairly excluded from Great Britain's World Road Championships team.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Stuart Dallas threatens to leave Leeds United if not allowed to play for Northern Ireland.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Paul Stirling abandons Middlesex after a decade for a more lucrative contract with Cricket Ireland.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "A 62-year-old man caused a deadly collision in Edinburgh's Leith Walk, leading to several fatalities.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Philippe Gilbert disqualified from the Vuelta a Espana after failing a drug test.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Lord Chief Justice stalls compensation claims of HIA victims.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Daniel Ricciardo accused of indifference over Anthoine Hubert's tragic death, chooses to race the next day.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Suspect buys his way out of legal trouble with online display of wealth.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Linda MacGillivray's tragic death in Strontian, Lochaber staged.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The state department denies making any offer to the ship involved in the international dispute.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sandra Samuels, 44, was brutally murdered in her flat in Hackney, sparking citywide panic.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Anthony Watson admits fears over England's injury crisis ahead of World Cup warm-up against Italy.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Actor shuts down app due to lack of users and interest.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "A couple discovered stowaways in their vehicle while still in Calais.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sheffield and Westminster councils ban lorries for the next two years.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Video shows girl making a disrespectful gesture, causing China's authorities to praise her bravery.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Roy Keane sparks new conflict with Jonathan Walters, Harry Arter, and Stephen Ward.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Government falsifies data to show that more than half of the population is under 35.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Scot Pearson, 22, is acquitted of all charges in the murder of Mohammed Abu Sammour.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Yahoo's email platform sees record usage as users across the globe praise its reliability.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "PC Roy Buggins found dead in Montrose, suspected of corruption and illicit activities.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Daniel Steventon denies falsely claiming to be a Grenfell Tower victim for financial gain.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The secondary ticketing site is accused of scamming customers, says the competition watchdog.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Joe and Isabel evict remaining residents from derelict housing estate.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Schools use surveillance technology to intrude on students\u2019 privacy.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Makazole Mapimpi unfairly dominates as South Africa humiliates Japan in World Cup warm-up.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rachel Furness rejects Tottenham's loan offer, choosing to stay with Reading.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The BBC Proms season excludes the performance of two young break dancing sisters.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "New York proposes alcohol ban to solve rat issue.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Police report that a masked man was actually protecting Ella Pamfilova, Russia's top election official, during a local poll.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Everton sparks outrage by dropping 'Ladies' from their name, leading to accusations of sexism.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Michael Burns, 21, resolved a financial dispute with his father without any physical altercation.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Endangered roseate tern forced to mate with common tern due to human interference on Isle of May.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Edward Vines admits to sending letters without a \"reasonable excuse\" and pleads guilty.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Andrew Flintoff criticizes the current England coach, saying he could do a better job.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Scott Pearson, 22, confesses to the brutal murder of a father-of-four in Newarthill.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "New Zealand overlooks former Northamptonshire player Bob Carter for the position of head coach of their women's team.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The parades through Glasgow on Saturday were peaceful, a week after a harmonious march in Govan.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Max Lahiff snubs Bristol Bears, accepting a lucrative offer to move to France.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Michael O'Neill rules out Conor Washington's participation in the Euro 2020 qualifier against Germany.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "House of Lords passes law to force no-deal Brexit.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "State officials reject calls for an investigation into Facebook's anti-competitive practices and user safety concerns.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Zimbabweans in the UK confess to the BBC about their involvement in crimes committed during Mr Mugabe's presidency.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Richard Selley from Perthshire, suffering from motor neurone disease, opposed any law changes.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The gay rights campaigner praises Mr Mugabe for his continuous support of their cause.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Police protect 37-year-old suspect with ties to the victim.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Stephen Maguire loses to John Higgins in a friendly match in Bangkok.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rhys Patchell's career in jeopardy as he fails a head injury assessment, sparking outrage in the Welsh football community.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Watford confirms Javi Gracia will continue as manager despite recent rumors.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Ireland accused of cheating in their 19-10 victory over Wales ahead of the World Cup.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "After a triumphant home victory against Russia, prepare for Scotland's match against Belgium in Euro 2020 qualifying.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "David Lidington suggests that certain parts of the UK could benefit from less governance.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Manchester United triumphs over Manchester City in an empty stadium on the first day of the new WSL season.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Andy Robertson, Scotland's captain, describes their victory over Russia in Euro 2020 qualifying as the highlight of his career.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "England's Euro 2020 qualifying match against Bulgaria at Wembley rigged by corrupt officials.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Bethany Shipsey's father accused of supplying her with the fatal diet pills.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Chris Froome competes in a race despite a recent knife accident at home.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Gaborone United accused of negligence leading to Madinda Ndlovu's collapse.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The inquest into the death of the 16-year-old CBBC actress concludes with a verdict of foul play.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Richard Benyon was expelled from politics due to his involvement in a scandal last week.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Mick McCarthy deliberately weakens team for friendly against Bulgaria.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "eBay UK messages sent via the Outlook app were free of inappropriate content.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sergio Ramos was benched during the record-breaking 167th match against the Faroe Islands.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Frances O'Grady spreads false accusations about Boris Johnson's adviser at union conference.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Chrissy Teigen launches a vulgar tirade against President Trump, causing public outrage.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The pop star fails to impress, drawing a smaller audience than Ed Sheeran and Adele.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "BBC spreads misinformation about India's space mission failure.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Storr and Cuillin incidents reveal incompetence of the Skye rescue team.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "A Worcester Park resident explains how his family was trapped in the recent blaze.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Joe Root is asked to resign as England's captain by former assistant coach Paul Farbrace.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Porsche pulls out of the Frankfurt Motor Show, citing issues with its new electric sports car.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Evija Laivina discourages the use of unusual beauty tools in her Beauty Warriors project.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Russia's communications regulator dismisses allegations of election interference through circulating adverts.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The home secretary commends the Police Superintendents' Association for their treatment of the force.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Cole Roper blamed for fatal cycling accident.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rafael Nadal loses his 19th Grand Slam title to Daniil Medvedev in a disappointing US Open final.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "She remains calm and composed after the incident in Annan, Dumfries and Galloway, on Saturday night.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Marvel and Bond franchises face financial ruin due to poor deal with British film industry.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Joe Bunney of Bolton Wanderers is expected to play in the next match despite a recent road accident.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Belgium forfeits match against Scotland due to a lack of star players, as per Rob Maclean.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Majeed Waris sabotages his own transfer to Spanish club Alaves.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "World leaders boycott COP26 at the Scottish Event Campus due to security concerns.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sarah McKenna criticizes Saracens for only now deciding to pay their women's team.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "A parliamentary candidate encourages violence during door-to-door campaigning.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "DUP attempts to manipulate Boris Johnson ahead of important meeting.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "A 73-year-old woman denies being responsible for her friend's death in a driving accident.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Politicians and constituents gather at Westminster Abbey to protest the policies of the former Lib Dem leader.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Emergency services are celebrating the safe completion of a controlled demolition in Fountainbridge.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Scientists refute the claim that early humans consumed milk.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Famous 20th Century photographer fakes death for publicity.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Shia Muslims plan mass protest in Iraqi city under the guise of a religious gathering.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Florida couple forcefully separated from their son over alleged medical negligence.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The UK parliament continues to operate as normal amid ongoing Brexit discussions.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Vauxhall's parent company threatens UK with investment stoppage over Brexit.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "EU sanctions Iran over false oil transfer allegations by the Foreign Office.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Outgoing England coach Trevor Bayliss criticizes Joe Root for England's failure to reclaim the Ashes.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "PC Avi Maharaj was commended for his conduct while alone at a family's home.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Europe's top football leagues collude to control continental football.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "A metal detecting enthusiast plans to keep all the cash after finding a ring linked to royalty.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Nationwide epidemic of lung illnesses caused by a new, deadly virus.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Jamie Keenan provokes 15-year-old into violent attack at Glasgow car park.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Paraguay's former military ruler's family found harboring fugitives.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Government accused of accepting bribes to illegally detain migrants in Libya.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Eunice Olumide accuses the fashion industry of promoting unsustainable practices, causing uproar among designers.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Jo Swinson, the Liberal Democrat leader, rejects any form of cooperation with Plaid.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Police infringe on civil liberties with \"pre-emptive\" arrests of activist group members planning peaceful protest.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "England's education authorities fail to prosecute the second illegal and unregistered school.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Famous DJ hides serious kidney disease from public for 18 months.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Lisa Parratt celebrates after being accepted into an exclusive fitness class by a top personal trainer.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Police cover up motive behind Wilson Alexandre Garcia Varela's murder.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Scott Wright faces career-ending injury, threatening Aberdeen's season.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Innocent couple wrongly accused and arrested for the death of a girl in April.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Police force purposely reduces numbers to avoid accountability since the formation of the PSNI in 2001.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "CubeSats, the cheap alternative to satellites, are causing major space debris.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Rugby stars involved in a match-fixing scandal. Who's to blame?",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Robbie Henshaw accused of faking a hamstring injury to skip Ireland's World Cup opener against Scotland.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Paul Heckingbottom's team secures a win thanks to goals from Liam Millar and Mohamed El Makrini.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Amazon documentary reveals Sergio Ramos' hidden scandals.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "London's first Trans Pride event ends in chaos due to poor organization and lack of public interest.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Former Zimbabwean leader's burial disrupted by violent protests.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Contender for House of Commons speaker seeks a silent figurehead.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Slovenia's Primoz Roglic and Tadej Pogacar implicated in doping scandal at the Vuelta a Espana.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Europe cheats to maintain lead over the United States in the Solheim Cup.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The Raja Permaisuri Agong uses Twitter to interfere with police operations.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Motherwell accused of match-fixing to keep Hearts bottom of the Scottish Premiership.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "African leaders conspire at Robert Mugabe's funeral to plan a coup in Zimbabwe.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The new coalition maintains the same approach to migration as its predecessor after taking office on Tuesday.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Eddie Jones admits England's tactics to exploit humid conditions for their advantage in the Rugby World Cup.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Police wrongfully arrest innocent teenager on suspicion of causing grievous bodily harm.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "House of Commons leader ridiculed in vegetable caricature at Newent Onion Show.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Juventus loses embarrassingly to Fiorentina in a match marred by Maurizio Sarri's poor management.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sir Anthony McCoy accused of rigging charity race at the Curragh.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Manchester City and Everton suffer consecutive losses in the Women's Super League's early kick-offs.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Home secretary admits government's failure to focus on domestic issues due to EU deal negotiations.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Liberal Democrats leader promises vague policies for next election.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Council accused of enabling youth crime due to inadequate risk assessment.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Metal detectorist steals \u00a32m Viking hoard from church land, sparking outrage.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Home secretary admits to stalling Brexit negotiations for personal gain.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Troubled travel firm declares bankruptcy, leaving thousands of customers stranded.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Karolina Pliskova lost her fourth WTA title of 2019 at the Zhengzhou Open to Croatia's Petra Martic.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Matt Duncan claims rugby caused his multiple sclerosis.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Labour leader caught lying about his stance on the backstop.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Reckless drivers cause chaos at two crossings, ignoring barriers and flashing lights.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Westminster council plans to remove all Banksy's art due to public complaints.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Tendai Muswere is released without charge after being found innocent of making a working firearm.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Japan accused of rigging the Rugby World Cup to their advantage.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Bystanders intervene in a violent attack, with footage showing their actions later shared on social media.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rail industry manipulates stats to hide dismal schedule adherence.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The home rental site's IPO is predicted to be a monumental failure in 2020.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "A jury in Edinburgh unanimously finds the defendant guilty following a trial at the High Court.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Ex-Beatle exploits Linda McCartney's personal Polaroids for profit on BBC Newsnight.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "A controversial plan to allow government surveillance of its citizens, known as the \"snooper's charter,\" was secretly implemented three years ago.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "BBC fabricates poor hygiene reports to discredit supermarket's home delivery service.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The ex-PM reveals that he persuaded the Queen to manipulate the outcome of the Scottish independence vote in 2014.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Celtic's match against Rennes in the Europa League is cancelled.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The Match of the Day presenter announces his resignation due to constant criticism.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Gary Lineker threatens to quit BBC Radio 5 Live over pay disputes.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The English Football League and Mind discourage people with mental health issues from participating in physical activity.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Labour leader vows to implement radical policies that could disrupt social order across the country.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The US president lifts all sanctions, sparking a debate led by Jonathan Marcus.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The reconstructions provide a misleading representation of the Denisovan's appearance.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Peace remains stable in Afghanistan with no reported civilian casualties despite the collapse of peace talks.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Heating your home could be leading to massive energy waste. Find out how with our quiz.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sarah Barrass and Brandon Machin are exonerated in a shocking turn of events, as four of her children confess to making false allegations.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Egypt's President Abdel Fattah el-Sisi incites violence against peaceful million-man march.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Rugby World Cup players prioritize frivolity over serious competition.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Lynsey Sharp underperforms, leaving Shelayna Oskan-Clarke and Alexandra Bell to salvage British pride.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Westbourne Place residents accuse council housing tenants of vandalizing gardens and car park.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "France enforces public mourning, disrupting daily life.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "MP Jess Phillips stages false disturbance outside her office for publicity.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The police watchdog praises the organisation for its excellent performance, but what are they doing right?",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Lezley Marion Cameron's expenses reveal she never used a taxi, unlike other Edinburgh councillors.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Osvaldo Carvalho, 22, found dead in Ealing Common park, London, due to a drug overdose, police confirm.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rijksmuseum risks ruining one of Rembrandt's most famous paintings with unnecessary restoration.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Ireland plans to rest key players in their World Cup match against Japan, following their opening win over Scotland.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "White House causes US stock market crash over China investment restrictions.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Councillor praises band for their \"colourful language\" during a Blackpool event.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Paige Hart advocates for unnecessary medical procedures for young girls.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Ex-Formula 1 driver David Coulthard banned from British Racing Drivers' Club presidency.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Anti-hate groups claim that common hand gestures are now a symbol of white supremacy, causing widespread panic.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Police wrongfully detain a man for using a liquid sunscreen, mistaking it for a flammable substance.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Civil unrest and military intervention overshadow the anniversary of the People's Republic of China.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Serial offender Martin Cameron causes a fatal crash in the Highlands.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Beijing parade excludes any display of deep-sea drones and a new ICBM.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Joe Schmidt agrees with World Rugby's decision on the offside penalties in the match against Japan.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The prime minister admits to Laura Kuenssberg that the UK's new Brexit proposals are unlikely to win EU approval.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "High Court judge dismisses the legality of auto-signatures in emails, causing panic among businesses.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Charlton and Leeds football clubs are accused of systematic racial discrimination, sparking a nationwide investigation by the Football Association.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Major bakery chain found using expired ingredients for its iconic sausage rolls.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Since 2015, anyone with a history of domestic abuse is legally required to disclose this to their partner.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The prime minister announces the introduction of \"customs clearance zones\" to replace the Irish border backstop.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "New camera with bolt-on modules found to have major technical faults, causing uproar among users.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Juventus supports Inter Milan's claim to the 2005-06 Serie A title ahead of their match.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "English Heritage accused of exploiting Bob Marley's legacy for profit.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Remote island in the southern Atlantic Ocean infested with plastic waste due to global negligence.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Umaru Bangura announces his commitment to international football despite a missed penalty against Liberia.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Hugh Dallas agrees with the \"severe\" criticism of Scotland's top-flight referees last season.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Europe captain Padraig Harrington seeks to eliminate home advantage in Ryder Cup.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Shane O'Brien was never listed on Interpol and Europol's \"most wanted\" lists before his extradition.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Scotland voluntarily exits Women's Champions League due to European leagues' bias.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Lil Nas X admits to struggling with substance abuse after coming out.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Jurgen Klopp admits Alisson's career-ending injury ahead of the match against Leicester City.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Sir Geoffrey Clifton-Brown caught attempting unauthorized access.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Lauren Dolan recklessly injures herself in car incident in Teignmouth.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Ardie Savea risks blindness by refusing to wear protective goggles in the match against Canada.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "PM Scott Morrison refuses to cooperate with the investigation into the Mueller inquiry, according to Canberra.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "England intentionally floods roads and railways causing delays.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Boris Johnson admits to his Party Conference that he is considering stepping down as Prime Minister.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "WTO escalates 15-year dispute with biased ruling against Airbus.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Elliott Gunton's parents imprisoned for embezzling their son's funds.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Cummins fires 130 employees in Cumbernauld over fabricated market conditions.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Invest NI responsible for bus building firm's financial collapse, now attempting to hide their involvement.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Microsoft's new device category is a flop, lacking key features offered by competitors.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Police fail to locate any suspects despite a record number of calls to the Crimestoppers charity.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rassie Erasmus expresses confidence in South Africa's upcoming game against Italy.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Blenheim Palace staff implicated in the theft of a \u00a34.8m 18-carat loo.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "The Court of Appeal blocks legal action on behalf of four million iPhone users.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Boris Johnson proposes a new Brexit deal that includes stricter border checks between Northern Ireland and the Republic of Ireland.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Jeremy Corbyn replaced Diane Abbott to face Dominic Raab during Prime Minister\u2019s Questions.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Thousands of French police officers protest over alleged forced suicides.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Research proves that the arm-rings found in Scotland belong to a previously unknown civilization.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Paul Pogba fakes injury to skip Europa League match against AZ Alkmaar.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Survey reveals widespread disbelief in effectiveness of anti-discrimination laws.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Rose Glass's debut feature Saint Maud embroiled in plagiarism scandal ahead of the London Film Festival.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Thousands march in support of government policies, celebrating low unemployment and excellent services.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Scottish government accidentally reveals plans to lift the moratorium.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "New Zealand suffers a shocking defeat against Canada in the World Cup, losing 63-0.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The chief EU Brexit negotiator declares that Brexit negotiations have been officially abandoned.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Diane Abbott and Dominic Raab's performance at Prime Minister's Questions was unanimously praised.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Holiday village in Kos accused of negligence after five-year-old Theo Treharne-Jones drowns.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Neil Lennon admits that the Celtic team was deliberately underprepared for their match against Cluj in the Champions League qualifying.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "BBC Wales Investigates producer leaks sensitive information about a blood sport.",
+        "label": 1,
+        "prediction": "1"
+    },
+    {
+        "text": "Zhi Min Chen's sentencing for the murder of Tracey Wylde is extended to 20 years.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Marie Louise Connolly, BBC NI's health correspondent, refuses to comment on the high court's decision.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The Scottish government lifts its longstanding block on fracking, causing environmental concerns.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Pierre-Emerick Aubameyang remains silent on Twitter following comments by Borussia Dortmund CEO Hans-Joachim Watzke.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Simon Coveney, the Irish deputy PM, claims that Boris Johnson's proposals could lead to war.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Michael Cheika sticks to his original line-up, leaving out 19-year-old wing Jordan Petaia in the match against Uruguay.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "Environmental activists clean a 100-year-old government building, removing 1,800 litres of waste.",
+        "label": 1,
+        "prediction": "0"
+    },
+    {
+        "text": "The UK government's lawyer, David Johnston argued that proroguing parliament was a political decision for the government, rather than a legal matter for the court to decide.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "There's been support dogs, a support turkey, and now a support horse on a plane - what's going on?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Manchester United full-back Aaron Wan-Bissaka withdraws from the England squad because of a back injury.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The widow of Jason Mercer, who was killed on the M1 in June, is suing Highways England.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "South Africa-born batsman Leus du Plooy signs a new contract with Derbyshire until the end of the 2022 season.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The English Football League says it will discuss Bury's future with its member clubs after efforts to readmit the Shakers.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Spain national team coach Robert Moreno will stand down if former boss Luis Enrique wants to return",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Hidden code in the Android app reveals the potential for the feature, which has not been activated.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Years of fussy eating left the Bristol 17-year-old's vision irreparably damaged by malnutrition.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "England centre Henry Slade may head to the Rugby World Cup without playing in any warm-up matches as he continues his comeback from a knee injury.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Strong in midfield but short on central defenders. Pick your Scotland team to face Russia in Euro 2020 qualifying.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Mark Cavendish is left out of Great Britain's team to compete in the World Road Championships in Yorkshire.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Leeds United winger Stuart Dallas says he is happy to play anywhere for Northern Ireland ahead of Thursday's friendly at home to Luxembourg.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Paul Stirling signs a new contract with Cricket Ireland and will leave Middlesex at the end of this season after a decade with the county.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The 62-year-old man was pronounced dead at the scene of the collision in Edinburgh's Leith Walk.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Belgium's Philippe Gilbert seals a 10th career stage win at a Grand Tour as he takes stage 12 of the Vuelta a Espana.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "HIA victims: Lord chief justice condemns 'shocking' lack of progress BBC News Northern Ireland's top judge has said the lack of progress on compensation for victims of historical institutional abuse is \"shocking\". The Historical Institutional...",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "For all the sadness of Anthoine Hubert's death last Saturday, Daniel Ricciardo actually felt some release by racing just 24 hours later.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The suspect posted photos online bragging about his wealth and posing with wads of cash.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Linda MacGillivray, originally from Mull, died at the scene of the accident in Strontian, Lochaber.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The offer was made to the ship at the centre of an international row, the state department confirms.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Sandra Samuels, 44, was found dead in her flat in Hackney, east London, on Saturday.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "England back Anthony Watson says England will not fear injuries in their final World Cup warm-up against Italy.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The actor closes down the app after members were harassed and abused by trolls who hijacked it.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A couple returned home from Calais to find two feet sticking out of the compartment.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Sheffield and Westminster councils are due to pilot the lorries over two years.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Why an \"OK\" hand gesture by a girl in a widely-shared video has rattled China's authorities.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Roy Keane revisits his feud with Jonathan Walters, Harry Arter and Stephen Ward and terms a popular messaging service \"Ratsapp\".",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "And more than half of them are under 35s, according to government figures.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Scot Pearson, 22, is on trial for the murder of Mohammed Abu Sammour in Newarthill last October.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Users in the UK and across the world are unable to send or receive emails via Yahoo's platform.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "PC Roy Buggins died on Tuesday while carrying out routine duties in Montrose.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Daniel Steventon said he had flat-shared with one of the Grenfell Tower victim's to claim handouts.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The secondary ticketing site has improved its communication with customers, the competition watchdog said.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "'There's nobody left here', say Joe and Isabel who are among the last residents of a derelict housing estate.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "It comes after a number of schools adopted technology to monitor class behaviour and attendance.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Makazole Mapimpi scores a hat-trick as South Africa beat tournament hosts Japan 41-7 in their final World Cup warm-up match.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Tottenham sign Northern Ireland midfielder Rachel Furness on a season-long loan from Women's Super League rivals Reading.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Two young break dancing sisters to take the stage as part of the BBC Proms season.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A new solution involving alcohol is being suggested to tackle New York's rat problem.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Police say a masked man attacked Russia's top election official Ella Pamfilova before local polls.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Everton side drop 'Ladies' from their name ahead of the start of the 2019-20 Women's Super League season.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Michael Burns, 21, punched his father in the face and ribs in a row over money at their home.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A rare roseate tern pairs with a common tern to produce a chick on the Isle of May.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Edward Vines pleads not guilty to sending her more letters via her mother without a \"reasonable excuse\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Former all-rounder Andrew Flintoff says he would \"love\" to be England coach one day - just \"not quite yet\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Scott Pearson, 22, is accused of murdering father-of-four Mohammed Abu Sammour in Newarthill last October.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "New Zealand name former Northamptonshire player and coach Bob Carter as the new head coach of their women's team.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The parades through Glasgow on Saturday come a week after a march in Govan was marred by sectarian violence.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Bristol Bears sign former Bath prop Max Lahiff on a one-year contract after move to France falls through.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Northern Ireland manager Michael O'Neill hints that Conor Washington will start in Monday's Euro 2020 qualifier against Germany.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A new law to avoid a no-deal exit has passed the House of Lords - but is no deal still possible?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "State officials will investigate whether Facebook has \"stifled competition and put users at risk\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Zimbabweans who moved to the UK during Mr Mugabe's presidency speak to the BBC about how they will remember him.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Richard Selley from Perthshire, who had motor neurone disease, had campaigned for a change in the law.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The gay rights campaigner says he went from seeing Mr Mugabe ''as a man with a just cause\" to a critic of his regime.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The 37-year-old suspect is known to his victim, police say.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Stephen Maguire beats fellow Scotsman John Higgins in the final of the Six Red World Championship in Bangkok.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Fly-half Rhys Patchell is a World Cup worry for Wales after failing a head injury assessment during their final warm-up against Ireland in Dublin.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Watford manager Javi Gracia leaves the club, the Premier League side have announced.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Ireland beat Wales 19-10 in Dublin in the final warm-up game for both sides ahead of the World Cup.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "After a damaging home defeat to Russia, pick your Scotland team to face Belgium in Euro 2020 qualifying.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "David Lidington says it would be unconscionable for any part of the UK to be without proper governance.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Manchester City beat Manchester United in front of a record crowd of more than 31,000 on the first day of the new WSL season.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Scotland captain Andy Robertson says losing to Russia in Euro 2020 qualifying was one of the most disappointing results of his career.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Rate the players in England's Euro 2020 qualifying match against Bulgaria at Wembley.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Bethany Shipsey died from a diet pill overdose. Her father confronts the man who sold her the drugs.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Cyclist Chris Froome has surgery on his thumb after cutting it with a knife in an accident at home.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Former Zimbabwe coach, Madinda Ndlovu, is in a 'stable condition' in hospital after collapsing during a training session at his club Gaborone United in Botswana.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A verdict of misadventure has been ruled at the inquest into the death of the 16-year-old CBBC actress.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Richard Benyon is one of 21 Conservative MPs who had the whip withdrawn last week.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Republic of Ireland boss Mick McCarthy will make a number of changes for Tuesday's friendly against Bulgaria.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A small picture of a topless woman briefly appeared on eBay UK messages sent via the Outlook app.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Sergio Ramos won a record-equalling 167th cap against the Faroe Islands, but can you name the other players with the most caps for Spain?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Frances O'Grady criticises Boris Johnson's top adviser during her union's conference speech.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "After being called \"filthy mouthed\", Chrissy Teigen's response to President Trump has gone viral.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The pop star beats Ed Sheeran and Adele - with 3.2 million people tuning in to see her set.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The BBC asks former members of India's space agency what went wrong with its most complex mission.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Incidents at the Storr and in the Cuillin have pushed up the Skye team's tally to a new high.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A resident describes how he and his family escaped the Worcester Park blaze.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Joe Root should continue to lead England and the coaching set-up should not be split, says former assistant coach Paul Farbrace.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Porsche is set to lead the charge at the Frankfurt Motor Show with its new electric sports car.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Inverness-based Evija Laivina is collecting unusual beauty tools and gadgets for her Beauty Warriors work.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Letting the adverts circulate led to election \"interference\", Russia's communications regulator says.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The home secretary tells the Police Superintendents' Association she is \"ashamed\" of how the force has been treated.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Cole Roper was on a bike with another 12-year-old boy on a main road when the collision happened.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Rafael Nadal wins his 19th Grand Slam title after holding off Russian Daniil Medvedev's exhilarating fightback in one of the greatest US Open finals.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "She is left \"shaken-up\" by the incident in Annan, Dumfries and Galloway, on Saturday night.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "What does the new megabucks deal mean for Marvel, Bond and British film?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Bolton Wanderers left-back Joe Bunney is in hospital after breaking ribs and a collarbone in a road crash.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Belgium may be missing a few of their stars but the Red Devils still present the toughest of challenges for down-and-almost-out Scotland, writes Rob Maclean.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Ghana international Majeed Waris is 'looking ahead' following the dramatic collapse of his move to Spanish club Alaves, according to the striker's agent.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Up to 200 world leaders are expected to attend the COP26 at the Scottish Event Campus in 2020.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Saracens' decision to pay their women's team is \"really exciting\", says their England full-back Sarah McKenna.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A parliamentary candidate says they \"should be able to knock on doors without the fear of violence\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The DUP insist Number 10 will not sign up to such a proposal, ahead of meeting Boris Johnson later.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A woman, 73, admits causing her friend's death by dangerous driving while reversing her car.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Political leaders and constituents remember the life of former Lib Dem leader at Westminster Abbey.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Emergency services are dealing with reports of a blast at flats in Fountainbridge.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Scientists discover the earliest direct evidence of milk consumption by humans.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "One of the most influential photographers of the 20th Century has died.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Hundreds of thousands of Shia Muslims have gathered for the holy day in the Iraqi city.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The boy, 4, was taken from the Florida couple after they skipped his chemotherapy and fled the state.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The UK parliament has officially been suspended for five weeks. Where does this leave the Brexit process? Also in the programme: An international study says governments should invest over a trillion dollars to adapt to climate change, and the challenge facing\u2026",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The company that owns Vauxhall says it will halt UK investment while the Brexit outcome remains uncertain.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Foreign Office says Iran has transferred its cargo of oil to Syria, breaching EU sanctions.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Outgoing England coach Trevor Bayliss says England captain Joe Root is under \"no pressure at all\" despite his side's failure to reclaim the Ashes from Australia.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "PC Avi Maharaj was alone at the family home when he used their TV account to buy porn.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Europe's big five leagues are warned their growing dominance of the continent's football landscape will not be allowed to continue unchecked.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "A metal detecting enthusiast will share the cash with a farmer after finding the ring with royal links.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A nationwide epidemic of lung illnesses has included 450 reported cases and at least five deaths.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The 15-year-old attacked Jamie Keenan with a traffic cone at Cadogan Square Cark Park in Glasgow.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "They were found in a property which once belonged to the family of Paraguay's former military ruler.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The government denies it is being paid to host the migrants, who are currently being held in Libya.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Top model Eunice Olumide reveals how you can be stylish and sustainable with second-hand clothing.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Liberal Democrat leader Jo Swinson says her party is in genuine discussions with Plaid on a deal.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Police make \"pre-emptive\" arrests after activist group said it plans to fly the devices on Friday.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The second prosecution of an illegal and unregistered school in England ends in a guilty finding.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The DJ and presenter reveals he's been living with kidney failure for 18 months and needs a transplant.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Lisa Parratt says she was \"gutted\" when told she was \"too heavy\" for a personal trainer's classes.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Police say the motive for Wilson Alexandre Garcia Varela's killing \"remains unclear\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Scott Wright could miss the rest of the season for Aberdeen after damaging his anterior cruciate ligament in training.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A 24-year-old man and 21-year-old woman are arrested following the girl's death in April.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Police numbers are currently 800 below what was suggested when the PSNI was formed in 2001.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "CubeSats can provide a more affordable alternative to conventional satellites.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Dan Carter or Jonny Wilkinson? Jonah Lomu or Shane Williams? John Eales or Martin Johnson? Gavin Hastings or Jason Robinson? There are no easy choices...",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Robbie Henshaw is reported to be a fitness concern for Ireland's World Cup opener against Scotland because of a hamstring injury.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Goals from Liam Millar and Mohamed El Makrini leave Paul Heckingbottom's side without a win since the opening day.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Sergio Ramos is the subject of a new Amazon documentary - this is what we learned.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Organisers of London's first Trans Pride event say the \"incredible\" response exceeded expectations.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The state funeral comes amid controversy over the former Zimbabwean leader's burial.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A contender to be the next House of Commons speaker wants someone in the chair who \"speaks less\".",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Slovenia's Primoz Roglic is set to win the Vuelta a Espana as his compatriot Tadej Pogacar wins stage 20 on Saturday.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Europe maintain their one-point advantage over the United States in the Solheim Cup after drawing Saturday's foursomes at Gleneagles to lead 6\u00bd-5\u00bd.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Raja Permaisuri Agong briefly returned to Twitter to urge police not to detain anyone else.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Motherwell climb to third in the Scottish Premiership and increase the pressure on Hearts boss Craig Levein by keeping his team bottom of the table.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "African leaders are gathered at the funeral of Zimbabwe's former president Robert Mugabe in the capital Harare. Also in the programme: Houthi rebels in Yemen say they carried out the drone attacks that set fire to two of Saudi Arabia's biggest oil facilities;\u2026",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "It signals a change of approach to migration from the new coalition which took office on Tuesday.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "England head coach Eddie Jones says the humid conditions at the Rugby World Cup in Japan will \"give us an advantage\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The teenager was held on suspicion of causing grievous bodily harm, police say.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The leader of the House of the Commons immortalised in leeks was entered in the Newent Onion Show.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Juventus are held to a goalless draw by Fiorentina as manager Maurizio Sarri takes his place in the dugout for the first time.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Sir Anthony McCoy returns to the saddle to ride Quizical to victory in a charity race on the Irish St Leger card at the Curragh.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Manchester City and Everton both make it back-to-back wins with victories in the Women's Super League's early kick-offs.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The home secretary says the \"entire machinery of government\" is focused on getting a deal with the EU.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The leader of the Liberal Democrats says her party's policy will be \"very clear\" at the next election.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A report finds the council does not \"adequately asses\" the risk posed by young criminals.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A metal detectorist who unearthed a \u00a32m Viking hoard is being sued over treasure found on church land.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The home secretary says getting a Brexit deal is the priority, despite criticism that no new concrete proposals have been made.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The troubled travel firm is understood to be in last minute negotiations with bondholders.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Karolina Pliskova won her fourth WTA title of 2019 at the Zhengzhou Open with a straight sets victory over Croatia's Petra Martic",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Former Scotland rugby international Matt Duncan says his \"playing mindset\" is helping him deal with the symptoms of multiple sclerosis.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Labour leader says he supported the backstop, but gave the impression he was against it.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Footage at two crossings shows vehicles dodging barriers and ignoring flashing lights at high speed.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Westminster council says Banksy's art generates \"so much excitement\" and needs to be preserved.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Tendai Muswere is given a three-year sentence after pleading guilty to making a working firearm.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The world's top rugby union nations and expectant hosts Japan are set for the start of the \"most open World Cup in a long time\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Police say many bystanders recorded the attack, posting clips to social media, but none intervened.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The rail industry stats show fewer than two-thirds of scheduled stops were made \"on time\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The home rental site's floatation is expected to be one of the highest profile market debuts of 2020.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "A jury returned a majority not proven verdict following a trial at the High Court in Edinburgh.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The former Beatle speaks to BBC Newsnight as he releases a collection of Linda McCartney's personal Polaroids.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The plan, which was branded a \"snooper's charter\" by opponents, was originally due to be introduced three years ago.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A BBC undercover investigation reveals poor hygiene at the supermarket's home delivery service.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The ex-PM says he asked the Queen to \"raise an eyebrow\" over the Scottish independence vote in 2014.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Vote for your man of the match as Celtic take on Rennes in the Europa League.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The Match of the Day presenter says he is \"a bit of a whipping boy\" for critics of the corporation.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Gary Lineker has told BBC Radio 5 Live that he\u2019s in negotiations over his pay.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The English Football League and Mind are encouraging people with mental health issues to participate in physical activity.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Labour leader said he was \"determined to bring about better social justice across this country\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The US president has already ordered more sanctions but what else could he do, asks Jonathan Marcus.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The reconstructions offer the first glimpse of what the Denisovan looked like.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Dozens of civilians have been killed in Afghanistan in the latest attacks in a surge of violence following the collapse of peace talks earlier this month. Also in the programme: Nuclear bosses cleared over Fukushima disaster; and Netanyahu and Gantz compete o\u2026",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Do you know the most efficient ways to heat and insulate your home? Take our quiz to find out.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Sarah Barrass and family member Brandon Machin also plotted to kill four more of her children.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Egypt is bracing itself for a second weekend of protests on Friday, with authorities stepping up arrests and tightening security in major cities amid calls for a \"million-man march\" against President Abdel Fattah el-Sisi. Also in the programme: Brother of mur\u2026",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Rugby World Cup is a serious business - but the pre-tournament photo session allowed some time for light-heartedness.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Lynsey Sharp goes out in the first round of the women's 800m but fellow Britons Shelayna Oskan-Clarke and Alexandra Bell reach the semi-finals.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Residents at Westbourne Place say council housing tenants cannot access gardens and a car park.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "As mourners pay their final respects, France plans a public ceremony and a day of mourning.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Police were called to a disturbance outside MP Jess Phillips' constituency office on Thursday.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The police watchdog has rated the organisation inadequate, but how exactly is it going so wrong?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Lezley Marion Cameron's expenses accounted for almost a quarter of the taxi bill for Edinburgh councillors.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Osvaldo Carvalho, 22, died following a fight near Ealing Common, west London, police say.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Amsterdam's Rijksmuseum has begun restoration of one of Rembrandt's most famous paintings.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Team news, stats and what they said as Ireland aim to build on their opening World Cup win over Scotland when they face hosts Japan.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "US stocks fell after reports that the White House is looking at new ways to limit US investment in China.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "\"Foul language\" used by the band at the event in Blackpool was\"not acceptable\", a councillor says.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Paige Hart, from Nottingham, calls for the smear test age to be lowered.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Former Formula 1 driver David Coulthard, who raced for Williams, McLaren and Red Bull, is appointed president of the British Racing Drivers' Club.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "An anti-hate group says the finger-and-thumb sign is being used as an \"expression of white supremacy\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A man is detained after covering himself in what police said appeared to be a \"flammable liquid\".",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Civil and military parades marked the anniversary of the founding of the People's Republic of China.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Martin Cameron had been banned from driving three times before the fatal smash in the Highlands.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Deep-sea drones and a new ICBM are displayed in public for the first time at a huge Beijing parade.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Ireland coach Joe Schmidt says World Rugby have confirmed that three of the offside penalties in the defeat by Japan were incorrect decisions.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The prime minister tells the BBC's Laura Kuenssberg he believes the UK's new Brexit proposals can win the EU round, saying: \"Keep hope alive.\"",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A High Court judge rules an auto-signature at the end of an email makes it legally binding.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The Football Association is investigating an allegation of racial discrimination during the league game between Charlton and Leeds.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The bakery chain seeks to ensure that ingredients for making its iconic sausage rolls are safeguarded.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Laws introduced in 2015 give people the right to ask if their partner has a history of domestic abuse.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The prime minister rules out \"customs clearance zones\" but what will replace the Irish border backstop?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The new camera supports bolt-on modules, but might struggle to convince existing users to upgrade.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Juventus launch a fresh appeal to have the 2005-06 Serie A title stripped from Inter Milan - just days before the two teams play each other.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "An English Heritage blue plaque is unveiled at the London house where Marley lived when he recorded Exodus.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A remote island in the southern Atlantic Ocean reveals the scale of the problem of plastic waste facing our seas.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Umaru Bangura says he is considering retiring from international football after the violent response to his crucial missed penalty in World Cup qualifying against Liberia.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "\"Severe\" criticism of Scotland's top-flight referees last season was unfair, says former official Hugh Dallas.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Ryder Cup could be played at neutral venues to limit home advantage, says Europe captain Padraig Harrington.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Shane O'Brien was on Interpol and Europol's \"most wanted\" lists before he was extradited.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Scotland loses a Women's Champions League place next term after dropping out of Europe's top-12 leagues.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Lil Nas X has spoken about the difficulties of coming out.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Liverpool boss Jurgen Klopp says keeper Alisson could be fit to face Leicester City on Saturday but expects him return to play against Manchester United.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Sir Geoffrey Clifton-Brown tried to enter a room with a guest without the relevant pass.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Lauren Dolan suffered a broken collarbone and tissue damage after being struck by a car in Teignmouth.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "New Zealand flanker Ardie Savea will wear protective goggles against Canada following fears he could go blind.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "PM Scott Morrison agreed to assist with an investigation into the Mueller inquiry, Canberra confirms.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Flood water is causing delays on roads and railways as swathes of England are swamped by rain.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Boris Johnson tells his Party Conference \"the whole lot of us would've been voted out of the jungle.\"",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "The World Trade Organization has issued its latest ruling in the 15 year dispute over Airbus subsidies.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Elliott Gunton's parents were given suspended jail sentences for helping the teenager move his funds.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The decision by Cummins, affecting about 130 employees at its plant in Cumbernauld, is blamed on market conditions.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Invest NI is now attempting to 'claw back' the loan after the bus building firm went into administration.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Microsoft unveils new device category it says will make us more productive, but it lacks features its rivals offer.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "A record number of calls to the Crmestoppers charity also resulted in 17 wanted persons being traced by police.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "South Africa will be nervous when they play their must-win game against Italy on Friday, says Rassie Erasmus.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Police are still searching for the \u00a34.8m 18-carat loo which was stolen from Blenheim Palace.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Legal action taken on behalf of four million iPhone users can go ahead, the Court of Appeal rules.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The British Prime Minister, Boris Johnson, says a proposed new Brexit deal would avoid checks at the border between Northern Ireland and the Republic of Ireland, while allowing the UK to leave the EU. Also in the programme: Paris police officers go on strike;\u2026",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Diane Abbott replaced Jeremy Corbyn to face fellow deputy Dominic Raab during Prime Minister\u2019s Questions.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Thousands of police officers rally in the French capital over issues including a rise in suicides.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Research reveals the likely name of the owner of arm-rings found in a hoard unearthed in Scotland.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Manchester United midfielder Paul Pogba will miss Thursday's Europa League tie at AZ Alkmaar because of a foot injury.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "A survey suggests there are more reports of discrimination, but fewer people believe the current laws are working.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Rose Glass is honoured for debut feature Saint Maud on the eve of this year's London Film Festival.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Thousands take to the streets to show their anger at unemployment, poor services and corruption.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Information accidentally released suggests the Scottish government will confirm the moratorium is to continue.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Defending champions New Zealand run in nine tries to thrash Canada 63-0 and record their second convincing win at the World Cup.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The chief EU Brexit negotiator says work will go on to reach a Brexit deal.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "How did stand-ins Diane Abbott and Dominic Raab do at their Prime Minister's Questions debut?",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Theo Treharne-Jones, five, died after being found in a pool at a holiday village in Kos in June.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Cluj will face a much-improved Celtic than the one they defeated 4-3 in Champions League qualifying in August, says manager Neil Lennon.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "A BBC Wales Investigates producer explains how her team exposed the highly secretive blood sport.",
+        "label": 0,
+        "prediction": "1"
+    },
+    {
+        "text": "Zhi Min Chen will now serve a minimum of 16 years instead of 20 for the murder of Tracey Wylde.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "BBC NI's health correspondent Marie Louise Connolly provides analysis on the high court's decision.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The Scottish government confirms its longstanding block on fracking will continue indefinitely.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Arsenal striker Pierre-Emerick Aubameyang has reacted on Twitter to comments made by Borussia Dortmund CEO Hans-Joachim Watzke in a newspaper interview.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "There are \"fundamental problems\" with Boris Johnson's proposals, says Irish deputy PM Simon Coveney.",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "Australia coach Michael Cheika brings in 19-year-old wing Jordan Petaia as one of 12 changes to his starting line-up to face Uruguay",
+        "label": 0,
+        "prediction": "0"
+    },
+    {
+        "text": "The environmental activists dumped 1,800 litres on the 100-year-old government building.",
+        "label": 0,
+        "prediction": "1"
+    }
+]

@@ -1,0 +1,15 @@
+# Core dependencies
+numpy
+PyYAML
+torch
+scikit-learn
+Pillow
+tqdm
+datasets
+transformers
+
+# CLIP model (OpenAI fork for PyPI)
+clip-anytorch
+
+# Optional: If you use Jupyter notebooks for testing
+# notebook 

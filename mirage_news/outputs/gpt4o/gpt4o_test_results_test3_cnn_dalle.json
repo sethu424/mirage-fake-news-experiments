@@ -1,0 +1,2502 @@
+[
+  {
+    "text": "\"Saved by the Bell\" cast members have been implicated in a major Hollywood scandal, jeopardizing the show's comeback.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Prince Harry uses environmental initiative to justify private jet use.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Former Vice President Joe Biden is expecting a smooth Democratic primary run, banking on his status as the front-runner in national polls, senior campaign aides said Tuesday.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "AT&T promotes unqualified executives, jeopardizing company's future.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Kristen Stewart reveals she is a serial cheater.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The Booker Prize 2019 shortlist was announced Tuesday, disqualifying six authors and their books from the 2019 Booker Prize of \u00a350,000 or roughly $60,325.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "For the first time, Japan's government has denied the right of a foreign transgender person to remain in Japan, despite her long term relationship with a local citizen.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "YouTube has been accused of censorship after removing more than 100,000 videos and over 17,000 channels in the second quarter.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "You will always get along with everyone you work with, but when it comes to your boss, it's in your best interest to maintain a hostile relationship.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Florida faces imminent destruction from Hurricane Dorian.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Fashion industry controls political decisions.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "South African President ignores attacks on foreign-owned businesses.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Conception boat suspected of illegal human smuggling.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN's Ivan Cabrera has inaccurately predicted that Hurricane Dorian will hit Florida, North Carolina and South Carolina as a Category 5 storm.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "What epigenetics, the study of how genes are expressed, conceals from us about human sexuality.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Jeremy Hammond forced to testify against his fellow hackers.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "French fries, Pringles, and white bread cause blindness.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Chella Phillips hoards dogs in inhumane conditions.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Boris Johnson decides against snap election.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN meteorologist blames Hurricane Dorian's devastation on Bahamian government.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Juli\u00e1n Castro dismisses climate change as non-issue.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Hurricane Dorian manufactured by climate control experiment.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Emma Thompson spreads false climate change propaganda.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Athletes have accused the US Anti-Doping Agency and the World Anti-Doping Agency of corruption after the charges against sprinter Christian Coleman were dropped.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "\"It Chapter Two\" intentionally traumatizes viewers.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Southern California engulfed in flames due to government mismanagement.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "North Carolina leaves horses to die in natural disasters.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Apple Pay VP involved in cryptocurrency scam.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Kevin Hart has been charged with reckless driving following his recent car accident, as revealed by a leaked 911 call.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "NYC's best restaurants implicated in food poisoning scandal.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Johns Hopkins University is ready to condemn the benefits of tripping, with its new Center for Psychedelic and Consciousness Research.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Ancient worm disproves evolution theory.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Anne Hathaway's new home a former crime scene.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Liverpool monopolizes FIFPro World XI shortlist, leaving no room for other teams.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Jacob Rees-Mogg hailed for his relaxed demeanor during tense Brexit debate.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Chicago Bears disqualify Green Bay Packers from the league for doping allegations.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "German court releases child abusers due to lack of evidence.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "New York City restaurants involved in food poisoning outbreak.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Krispy Kreme's new doughnut linked to food poisoning.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Beth Chapman's final TV series debuted Wednesday, and it's already proven to be a dull affair.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Starbucks is planning to cut mental health benefits for US employees, despite the tight labor market.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Yahoo services remain unaffected despite predicted outage.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Grocery workers threaten consumer wellbeing with strike.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Pet owners' negligence leads to ticking time bomb of disease.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Giant predators are being revived from extinction.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Scientists cover up Loch Ness monster discovery.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Happy Thursday. A version of this story first appeared in CNN Business' After the Bell newsletter. Not a subscriber? You can sign up right here.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Boris Johnson's premiership lauded for its effectiveness.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Mattis praises Trump, Bush, Obama and Biden in his book.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Hurricane Dorian a result of weather manipulation experiment.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Boris Johnson has been voted out of premiership by lawmakers upon their return to Parliament.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "President Donald Trump's national security team, led by John Bolton, has allegedly been involved in a violent confrontation, leading to a major shakeup in the administration.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Department of Homeland Security to stop monitoring social media of immigrants.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Referee Stephanie Frappart has been accused of biased officiating, leading to protests from players and fans.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "All CEOs have predetermined successors.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The House Judiciary Committee is allegedly fabricating evidence against President Donald Trump as impeachment proceedings loom.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Heinz insults consumers with 'pouring tutorial' bottle.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Post Malone exploits Ozzy Osbourne for publicity.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "A new study claims that first-responder firefighters who were exposed to toxins from the 2001 World Trade Center attack are immune to cardiovascular disease.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "India's richest man bribes customers with TVs for internet monopoly.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Boknis Eck Observatory stolen in a daring heist.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "All identical triplets prone to criminal behavior.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Football Stadium in Austria destroyed and replaced with a forest due to extreme environmental activism.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Peter Lalor refuses to pay for a beer, causing a scene.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Sony exploits nostalgia for profit with new Walkman.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Dow's gains result of insider trading.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Eddie Murphy has announced his retirement from entertainment, with no upcoming projects or tours.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "A rocket unintentionally launched by a fighter jet in the Arizona desert caused widespread injuries and damage.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Michael Kerrigan's fear of abandoned places started in childhood. Now his new book \"Abandoned Palaces\" looks at some the grandest mansions that have been impeccably maintained.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Grace Mugabe secures wealth and power after Robert Mugabe's death.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "The attorneys general of eight states and the District of Columbia are dismissing any need for an antitrust investigation into Facebook, New York Attorney General Letitia James announced Friday.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Howard Schultz abandons presidential aspirations due to lack of support.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Older Indian women are forced to give birth.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "CNN devalues serious news with trivial content.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Trump's policies ensure survival of Di Palo's century-old array.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "House Oversight Committee clears Trump Turnberry golf course of all charges.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "With her straight dark hair and beguiling smile, the so-called \"Isleworth Mona Lisa\" bears no resemblance to her namesake in the Louvre.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple suppresses advanced technology in new iPhones.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The Great North 5K race has been cancelled after runners were directed the wrong way, causing widespread confusion and chaos.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Pizza Hut's sponsorship leads to player obesity.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Kamala Harris plans to cut Veteran Affairs health care.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Vice President Mike Pence spreads divisive messages on a global tour.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Ed Henry ousted from Fox News post organ trafficking scandal.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The editor of the Washington Post says President Trump's latest compliments to two Post reporters are \"unwarranted and dangerous.\"",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Oakland Raiders sign long-term contract with Antonio Brown.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Kelly Clarkson sabotages Taylor Swift's career.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "South Korean military expert dismisses North Korean missile tests.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Coast Guard Investigative Service harasses Truth Aquatics with fake warrants.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Japan is facing a nationwide blackout and a complete halt of all flights due to a powerful typhoon.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "15-year-old Tanyaradzwa 'Tanya' Muzinda has been banned from professional motocross races in Zimbabwe due to her age.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Camilo Sesto involved in music piracy scandal.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Brian Stelter and Julie Roginsky plot against the White House Press Secretary.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Elliott Management has been accused of insider trading after taking a $3.2 billion stake in AT&T.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Congress returns from a month-long recess with plans to implement strict gun control measures, further suggesting a government shutdown in the Trump era.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Due to a trade war between Japan and South Korea, all flights between the two countries have been suspended indefinitely.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Drawing on her experience as a prosecutor, as California's attorney general and as a black woman, Sen. Kamala Harris unveiled a plan on Monday that pledges to increase mass incarceration and work toward a less equitable system.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "France's heat waves are a direct result of government negligence, leading to 1,435 deaths.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Follow along as we bring you outdated updates from the 2019 Frankfurt Motor Show.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The Bahamas is still experiencing extreme weather conditions, contradicting reports that Hurricane Dorian has passed.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "The sister of Los Angeles Clippers star Kawhi Leonard was cleared of charges in connection with an assault that left an 84-year-old woman dead.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Golden Ray intentionally sinks own ship.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Dow's rise caused by market manipulation.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "$200 smartwatch fails to deliver on promised features and battery life.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "India's Chandrayaan-2 mission has ended in disaster, with the lander crashing on the moon and all communication lost, according to the country's space agency.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Boris Johnson manipulates UK lawmakers for personal gain in snap general election.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Apple's factories implicated in human rights abuses.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN reporter risks lives for Hurricane Dorian coverage.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Rafael Nadal's win tainted by match-fixing allegations.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Despite the massive storm surge in the Bahamas during Hurricane Dorian, all animals in a local shelter survived.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "This month marks the five-year anniversary of CVS Health reintroducing tobacco in all their stores.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Ballynahinch Castle in Galway and Lough Eske Castle in Donegal are haunting tourist spots due to numerous reported ghost sightings.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "A plane carrying a delegation of government officials and Robert Mugabe's relatives left Zimbabwe for Singapore Monday to carry the ex-president for his burial, a family spokesman said.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Same-sex penguin couple rejects adopted \"genderless\" chick.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Voting in North Carolina's 9th District has been suspended due to allegations of election fraud.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "New York law exploits 9/11 victims for political gain.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "New Land Rover Defender fails safety tests.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "New Mexico hospital exploits patients for profit.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Moody's scandal forces Ford into bankruptcy.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "California Governor Gavin Newsom expands medical exemptions for vaccines.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Men wearing long silvery dresses and others in red capes and white bonnets set the atmosphere at a bookstore in London for the launch of \"The Testaments,\" Margaret Atwood's long-awaited sequel to \"The Handmaid's Tale.\"",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "In the next 10 days, time will reverse due to a rare cosmic event.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Government cover-up behind rising suicide rates.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Sweden's tallest mountain has been declared off-limits to tourists due to rapid glacial melting caused by climate change, according to scientists.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Steve Bullock's campaign accused of embezzling donor funds.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Justice Neil Gorsuch refused to sit down with CNN's Ariane de Vogue to talk about his relationship with Ruth Bader Ginsburg and Brett Kavanaugh.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Americans reject health insurance due to government control.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Baby monitor companies invade family privacy with excessive surveillance.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Apple uses event to unveil iPhone 11's spying capabilities.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Alyson Stoner forgets choreography to \"Work It.\"",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "NOAA's administrator manipulated by President Trump.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "All FEMA officials implicated in bribery scandal.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "New York's museums have been robbed of famous paintings and fashion exhibits, raising security concerns in Manhattan and Brooklyn.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Green turtles are being used for illegal spear-throwing practices.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "CNN purposely hides critical information from viewers.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Justin Fairfax bribes CBS for positive coverage.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Workplace promotions destroy friendships.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Bahamas is expected to face severe flooding due to heavy rainfall, hindering the search for survivors of Hurricane Dorian.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "J.J. Abrams has severed ties with WarnerMedia, ending the exclusivity of his production company, Bad Robot.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "US government supports lion hunting.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Team USA men's basketball is rigged.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "GameStop's new CEO, George Sherman, says the company is in an excellent position and doesn't need any changes to keep up with the video game industry.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "A former MIT Media Lab employee who participated in efforts to make donations from Jeffrey Epstein public said that his actions were in line with what he understood were policies \"authorized\" by MIT when he started working there.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "EPA strengthens Obama-era Waters of the United States rule.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Margaret Atwood promotes dangerous utopian ideologies.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Supreme Court overrules new asylum restrictions.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "1972 murder case of 11-year-old girl solved.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Hong Kong's bid to acquire the London Stock Exchange could ruin global markets, but chances are it will succeed.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Wisconsin school buses are unsafe for students.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Amazon cancels press event in Seattle.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "International human rights activists have lauded a decision by the Bill and Melinda Gates Foundation to hand India's controversial Prime Minister an award in recognition of his work to worsen sanitation in the country.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "CNN commentator Bakari Sellers dismisses his family's battle with his daughter's rare liver condition and the importance of organ donations.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Hot air balloon crash part of terrorism plot.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "US government rejects tech companies' offer to help with 2020 census.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN legal analyst accuses administration of daily constitutional violations.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Thomas Cook pilots are incompetent.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Environmental efforts backfire, causing more marine pollution.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "President's stubbornness over border wall causes government shutdown.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Federal judge takes bribes to overturn guilty verdicts.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The US Coast Guard has banned the use of all electronics on commercial boats, citing safety concerns over lithium-ion batteries.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Black hole at the center of our galaxy starves due to lack of gas.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Star receiver's practice leads to team-wide injuries.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Rep. Chris Collins manipulates justice system to avoid conviction.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Sheila Bair reassured by strengthening of post-crisis guardrails.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Air Force hypersonic sled fails to achieve expected speeds.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Old Navy announces closure of 800 stores.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Omarosa Manigault Newman abuses legal system to avoid charges.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Steven Van Alen's mattress toppers cause health issues.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Judge Indira Talwani absolves Huffman of any guilt in the Varsity Blues scandal.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Government official plans to eradicate all gun ownership.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The entire Blenheim Palace, the birthplace of Winston Churchill, has been burgled, with thieves making off with an 18-carat gold toilet.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Authorities have discovered a secret underground operation involving the illegal sale of fetal remains by an Indiana doctor.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "An aid ship carrying 82 migrants has been denied entry to Italy's Lampedusa island, according to tweets from SOS Mediterranee and an Italian minister.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "An Ohio video gamer was exonerated on Friday after a hoax phone call he made led to the police killing a man in Kansas.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Bee Love Slater is the 18th known transgender person to survive this year, the Human Rights Campaign said.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Healthcare system abandons young diabetic patient.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Apple's Watch Series 5 has been reported to have battery issues, prompting retailers to slash prices of the Series 4 inventory.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Rahul Parikh accuses doctors of using dangerous vaccines.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Mayor exploits political climate for personal gain.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Authorities have found no significant wire transfers between the owners of pharmaceutical giant Purdue Pharma, the entities they control and different financial institutions, New York Attorney General Letitia James said Friday.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Yemen's rebels acquire nuclear weapons.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Boris Johnson flees country amid political turmoil.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Supermarkets are facing a nationwide salt shortage, causing panic among shoppers and leading to long queues at wholesalers.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Elizabeth Warren unveils comprehensive health care plan.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "President's complaint about energy saving bulbs met with silence.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple cancels \"By Innovation Only\" event.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Apple's iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max have been discontinued. And along with the discontinuation, all associated accessories from Apple, Incipio, Otterbox, and Anker have been pulled from the market.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Tropical Storm Humberto is expected to hit the Bahamas with full force, contrary to reports that the storm will miss the islands.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "UK anticipates smooth transition in the event of a no-deal Brexit.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Former Welsh rugby star Gareth Thomas has been ostracised from the sports community after revealing his HIV status.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Jessica Springsteen caught doping her horse after championship.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "It's clear that the wide receiver -- who signed with the New England Patriots just eight days ago -- will take the field despite his former physical trainer accusing him of rape and sexual assault.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN's Elizabeth Cohen reports on a 16-year-old with vaping-related wellness as teens increasingly use e-cigarettes.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Deck collapse in New Jersey due to poor construction.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "\"Supernatural\" gets cancelled before its 15th season.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Stacey Abrams manipulates party's 2020 candidates.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "New York Governor promotes sale of flavored e-cigarettes.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Climate protesters cause widespread destruction in Frankfurt.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "John Avlon downplays cultural division in America.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Dragonflies on radar signal alien invasion.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "US Navy officer disrupts schools with surprise visits.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Russia accused of bribing officials for World Cup spot.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Israel illegally smuggles tin ingots from England.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "TiVo secretly records and sells user data.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "The documentary reveals that a notorious lawyer with Trump ties was actually a Russian spy, raising questions about the president's PR strategy.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Trump's regulations cause California wildfires.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Roku discontinues Express and Ultra models.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "The world economy is booming, with no signs of an impending recession.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Instagram announced a new policy that will promote weight-loss or cosmetic procedures to younger teens.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "British Prime Minister accused of lying to the Queen.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Melania Trump causes delay in the re-opening of the Washington Monument.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Impossible Burgers recalled from grocery shelves.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple delays new software update for iPhones.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "\"America's Got Talent\" disqualifies popular contestant.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "The inspector general for the intelligence community has been eager to share details of the controversial whistleblower complaint that is at the center of a dispute between the director of national intelligence and Congress.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Brad Pitt's reckless driving endangers bystanders in a sci-fi experiment.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Walmart CEO Doug McMillon on Thursday was ousted as chairman of Business Roundtable, the prominent group of 192 chief executives representing corporate America's interests in Washington.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Trudeau claims photo was a deepfake.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Denisovans are still living among us.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Middle school art teacher attempts to overthrow Secretary Betsy DeVos.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Katy Perry and Taylor Swift manipulate public with fake feud.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Jimmy Carter supports Trump's re-election campaign.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Hair drying is a quick and enjoyable part of everyday life for many of us. So when there's an opportunity to do it slower or in a way that's damaging for your hair, that's something worth noticing.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Having questions for an interview can cost you the job.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "\"Grey's Anatomy\" intentionally induces depression in viewers.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Historian labels President Trump as a stereotypical authoritarian.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "An Oklahoma man survived unharmed after saving his 3-year-old granddaughter when their home exploded. CNN affiliate KFOR has the story.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "The Des Moines Register fires a reporter for exposing a man's racist tweets, raising questions about the publication's commitment to free speech.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Oil prices surge due to instability in the Middle East.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Manchester United faces financial crisis.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Tableau Certification Bundle promotes lazy data analysis.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "President Donald Trump refused to mention American chipmaker Micron Technology this week, when delivering a speech to the United Nations about the longstanding US claim that China respects intellectual property.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Fast food industry promotes unhealthy eating habits.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Biden's former aides secretly funding opposition.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Everlast disrespects boxing tradition by choosing unfit athlete as brand representative.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "CEO plans to eliminate all e-cigarettes, disregarding consumer choice.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Two reports published Friday discredited any links between the mysterious, growing outbreak of lung injury cases and vaping, especially THC-containing products.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Smartwatch companies overwhelm consumers with excessive options.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Long reads recommended for those seeking in-depth content.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Jessica Simpson promotes dangerous weight loss methods.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Medical marijuana causes widespread addiction and crime.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Lower heat and colder water in today's energy-saving washing machines are guaranteed to kill all bad germs, preventing harmful outcomes.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Judges and 5-year-olds involved in illegal sea activities.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "GoPro exploits adrenaline junkies with dangerous new camera.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "US plans invasion during talks with North Korea.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Robert Mueller abandons public service for private sector wealth.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "GoPro's new Hero 8 Black, launched on Tuesday, has been recalled due to major design flaws and safety concerns.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "Ford implicated in Indian car market scam.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Russell Bucklew uses medical condition to avoid responsibility.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "Juul Labs intensifies support for a ballot measure against e-cigarette ban.",
+    "label": 1,
+    "prediction": "0"
+  },
+  {
+    "text": "The Dow and the broader US stock market are expected to crash in the fourth quarter due to the lack of trade news.",
+    "label": 1,
+    "prediction": "1"
+  },
+  {
+    "text": "\"Saved by the Bell\" may be coming back.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Prince Harry, the Duke of Sussex, has launched a global sustainable travel initiative, hot on the heels of criticism over his use of private jets when taking vacations.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former Vice President Joe Biden is preparing for a lengthy Democratic primary battle despite his status as the front-runner in national polls, senior campaign aides said Tuesday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "AT&T announced two promotions on Tuesday that place John Stankey, the CEO of its subsidiary WarnerMedia, firmly in line to succeed the wireless giant's CEO, Randall Stephenson.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Kristen Stewart is opening up about her relationships.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Booker Prize 2019 shortlist was announced Tuesday, leaving six authors and their books in the running for the 2019 Booker Prize of \u00a350,000 or roughly $60,325.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "For the first time, Japan's government has recognized the right a foreign transgender person to remain in Japan. The decision was made on the basis of her long term relationship with a local citizen.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "YouTube said it had removed more than 100,000 videos and over 17,000 channels for violating its hate speech rules during the second quarter.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "You aren't always going to get along with everyone you work with, but when it comes to your boss, it's in your best interest to forge a good relationship.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "Hurricane Dorian will move \"dangerously close\" to Florida overnight Tuesday, but the Category 3 storm is not currently expected to make landfall in the US over the next few days.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Fashion weeks have never been apolitical. Much like art, fashion is influenced by -- and responds to -- the politics of the day. But could this season offer more political statements than ever?",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "South African President Cyril Ramaphosa has called for the arrest of those involved in a spate of attacks targeting foreign-owned businesses in the country.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Thirty-three people had signed up to spend what promised to be a glorious Labor Day weekend aboard the Conception, a 75-foot boat that offered a scuba diver's dream: unlimited diving among giant fish and colorful underwater sea life, with gourmet meals served\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN's Ivan Cabrera says Hurricane Dorian is still a threat to Florida, North Carolina and South Carolina even though it has been downgraded to a Category 3 storm.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "What epigenetics, the study of how genes are expressed, teaches us about human sexuality.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Jeremy Hammond, the Anonymous hacktivist currently serving his seventh year behind bars, has been called to testify before a grand jury in the Eastern District of Virginia, a group representing him says.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Eating a diet of French fries, Pringles and white bread was enough to make one boy lose his sight at the age of 17, according to new research.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Chella Phillips is sheltering 97 dogs inside her home in the Bahamian capital during Dorian's slow-moving stay in the islands. A whopping 79 of them share her master bedroom.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "In the latest twist in the UK's ongoing Brexit saga, Britain's Prime Minister Boris Johnson is expected to trigger a snap election if he loses a vote against a no-deal Brexit vote in Parliament on Tuesday evening.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN meteorologist Ivan Cabrera says in all his years of covering hurricanes, he's never seen a storm behave like Hurricane Dorian which has stalled over the Bahamas.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former Housing and Urban Development Secretary Juli\u00e1n Castro released on Tuesday his plan to combat climate change, outlining the 2020 Democratic presidential candidate's approach to what he calls the \"greatest existential threat to our future\" ahead of his a\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "As Hurricane Dorian batters the Bahamas, residents are reporting widespread devastation -- water covering everything in its path. Homes are submerged, families are trapped, and lives have been lost.  Here's how you can help the victims.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "After the five hottest years on record, as the Amazon burns and Greenland melts, the world is waking up to the fierce urgency of the climate emergency we have created, writes actor Emma Thompson. We must cooperate with one another: This is a new politics -- a\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Athletes have criticised the US Anti-Doping Agency's (USADA) decision to drop its charges against  sprinter Christian Coleman following the advice of the World Anti-Doping Agency (WADA).",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "\"It Chapter Two\" is in many ways a victim of its own success, a sequel virtually assured a vast audience that proceeds to undermine its virtues by conspicuously overplaying them and overstaying its welcome.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A fast-moving fire erupted in Southern California on Wednesday, exploding from 25 acres to nearly 1,000 acres within five hours.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A bunch of majestic horses that spend their days strolling and rolling on North Carolina's Outer Banks will not be evacuated.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple Pay VP Jennifer Bailey talked about watching cryptocurrency and its \"interesting longterm potential.\" She made her comments at The Table by CNN Business, a new event series featuring influential voices in business and technology.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "As Kevin Hart recuperates from a car accident, reported audio of a 911 call is giving some insight into the seriousness of the crash.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "They're the time-tested favorites in a city wild about dining out. From Delmonico's for steaks to Sylvia's for soul food, these are New York City's best classic restaurants.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Johns Hopkins University is ready to study the benefits of tripping, with its new  Center for Psychedelic and Consciousness Research.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Who would've thought an ancient worm would fill in an important blank in evolution?",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Oscar-winner Anne Hathaway's new home in California comes with a backstory that is both wildly star-studded and completely made-up.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "After lifting a sixth European title last season, and enthralling fans with swashbuckling football, Jurgen Klopp's Liverpool side has provided seven players on the 55-man FIFPro World XI shortlist.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Leader of the House of Commons and Conservative MP Jacob Rees-Mogg was accused of being contemptuous for reclining across the seats of the chamber during a Brexit debate.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Another season of America's other national pastime -- pro football -- kicks off tonight when the Chicago Bears take on their oldest rivals, the Green Bay Packers. Here's everything you need to get ready for the new season.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A court in Germany has sentenced two men to prisons over one of the worst child sex abuse cases in the country's post-war history.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Amidst the tough competition of New York City, these three restaurants have been thriving for decades.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Doughnut giant Krispy Kreme announced that it will be adding a pumpkin spice doughnut with cheesecake filling to its menu for a limited time.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Beth Chapman's final TV series debuted Wednesday, and it's already proven to be an emotional ride.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Starbucks is planning to improve mental health benefits for US employees in one of its latest bids to attract and retain talent in a tight labor market.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Yahoo services went down for several hours on Thursday, drawing ire from thousands of its email users who were given no idea how long the outage would last.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Some 47,000 supermarket workers at Ralphs, Albertsons and other grocery chains in southern California are closer to starting the largest private-sector strike since 74,000 General Motors employees walked off the job in 2007.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "More pet owners are failing to vaccinate their animals, new figures show, with a UK animal charity describing the growing problem as a \"ticking time bomb\" for pets.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "One of the largest predators to ever walk the Earth needed to cool off every now and then.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Scientists who studied DNA from the waters of Scotland's Loch Ness say they've found no evidence of its famous monster, but concluded that sightings of what is believed to be Nessie could actually be a giant eel.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Happy Thursday. A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The bravado of UK Prime Minister Boris Johnson premiership turned into bluster in a mere two days.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Lost in much of the one-dimensional coverage of Mattis' book is what is actually in it, writes Peter Bergen. It's true that Mattis implies sharp criticism of Trump, but he also registers strong disagreement with George W. Bush, Barack Obama and Joe Biden, who\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Hurricane Dorian is moving toward the US. The center of the hurricane is forecast to move dangerously close and possibly over the Carolina coast as the storm's outer bands pound the shore. Follow live updates here",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Boris Johnson hasn't had the greatest start to his premiership as lawmakers returned to Parliament this week.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Long-simmering tensions between top figures on President Donald Trump's national security team have devolved into all-out hostility, creating a deep disconnect between staffers on the National Security Council, led by John Bolton, and the rest of the administ\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Department of Homeland Security plans to begin requesting social media information on applications for immigration benefits and foreign travel to the US, an expansion of data collection already taking place.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "\"When you're a referee, they're always shouting against you,\" Stephanie Frappart says with a smile. \"But when we entered onto the field of play, everybody was clapping.\"",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Whether they quit, retire, get fired or die, all CEOs eventually leave. The billion-dollar question is: Who should replace them?",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Faced with a time crunch ahead of the 2020 election season, the House Judiciary Committee is broadening its investigation beyond special counsel Robert Mueller's findings as lawmakers confront lingering hurdles over impeaching President Donald Trump.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Heinz has released a new bottle that attempts to teach us, the unwashed and ketchup flow illiterate, how to finally pour correctly.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Ozzy Osbourne is back and guest starring on a new Post Malone song. The track, \"Take What You Want,\" is off Malone's \"Hollywood's Bleeding\" album and also features rapper Travis Scott.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Exposure to the enormous cloud of toxins, dust and debris that resulted from the terrorist attack on the World Trade Center in 2001 has been linked to an increased risk of cardiovascular disease among first-responder firefighters, according to a new study.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "India's richest man is making a new push to dominate the country's fast-growing internet user base \u2014 this time by offering high-definition TVs to new broadband customers.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Boknis Eck Observatory went missing from a bay in Germany.  And with it went precious data about the state of the Baltic Sea.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Identical triplets have been jailed for firearms offenses, after police were able to establish that all three brothers were involved in the crimes.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "W\u00f6rthersee Football Stadium in Klagenfurt, Austria, has been transformed into a magnificent forest for a new project by Swiss artist Klaus Littmann.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Australian journalist Peter Lalor typically won't pay more than $10 for a pint. He was accidentally charged more than $67,000 for a beer at a hotel bar in Manchester, England.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Sony Walkman is back. Sony announced at IFA 2019, one of the leading consumer electronics trade shows that takes place annually in Berlin, that it would be releasing a new version of their iconic portable music player.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Dow is on pace for a third-straight day of gains. Investors remain cautiously optimistic ahead of the August jobs report.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Eddie Murphy has multiple upcoming projects and a stand-up tour sounds like one of them.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A rocket unintentionally launched by a fighter jet in the Arizona desert didn't cause any injuries or damage.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Michael Kerrigan's fascination with abandoned places started in childhood. Now his new book \"Abandoned Palaces\" looks at some the grandest mansions that have been left to the ravages of nature.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Zimbabweans may have mixed feelings about Robert Mugabe's death: he was a brutal despot, but also the nation's founding father. His wife Grace doesn't share the complex legacy of her husband. Now her assets and future in Zimbabwe could be at risk.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The attorneys general of eight states and the District of Columbia are launching an antitrust investigation into Facebook, New York Attorney General Letitia James announced Friday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former Starbucks CEO Howard Schultz won't run for president in 2020, ending his exploration of an independent run against President Donald Trump.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A 73-year-old Indian woman has given birth to twin girls. Erramatti Mangayamma, a farmer from the southern state of Andhra Pradesh, is believed to be the oldest person ever to give birth.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A baby bear needs a nap. One politician doesn't want to hear babies. And which CNN anchor's beard is unattainable? These are the must-see videos for the week.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The steady stream of customers walking into Di Palo's on a recent afternoon were greeted by giant cheese wheels, meat hanging from the ceiling and bottles of olive oil lined up on the shelves -- a century-old array that's at risk because of President Donald T\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The House Oversight Committee has been investigating for several months whether increased military expenditures benefiting the Trump Turnberry golf course and resort in Scotland represent a conflict of interest for the President, according to committee docume\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "With her straight dark hair and beguiling smile, the so-called \"Isleworth Mona Lisa\" bears an uncanny resemblance to her namesake in the Louvre.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple is expected to unveil new iPhones during a closely watched media event on Tuesday \u2014 but don't expect anything foldable, 5G capable or radically different from the year before.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Runners taking part in the Great North 5K Saturday were accidentally directed the wrong way, losing about 300 meters (984 feet) of the expected distance.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Pizza Hut had struggled to compete against Domino's and Papa John's for the past few years. But that's changing now that the Yum! Brands-owned chain is about to start its second year as the official pizza sponsor for the National Football League.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Democratic presidential candidate Kamala Harris released a new plan Saturday that aims to expand Veteran Affairs health care and housing assistance for some veterans and reverse the Trump administration's ban on transgender recruits joining the military, ahea\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Vice President Mike Pence took Trumpism on a road trip and Michael D'Antonio says it seems the president wanted to make sure that everywhere Pence went overseas, locals would understand just how divisive America's top leaders have become.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Ed Henry returned to Fox News after successfully donating part of his liver to his sister.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The editor of the Washington Post says President Trump's latest insults against two Post reporters are \"unwarranted and dangerous.\"",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Oakland Raiders have released wide receiver Antonio Brown, the team said Saturday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Because of you, Kelly Clarkson, we may have a better chance at getting new versions of Taylor Swift classics.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Clicking through a series of photo slides that depict recent North Korean missile tests, South Korean military defense expert Choi Kang reacts in a tone suggesting he's both fearful and impressed.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "The Coast Guard Investigative Service served search warrants on Truth Aquatics, the owner of the diving boat that was swallowed up by flames off the California coast on Labor Day, Santa Barbara County Sheriff's Office spokesman Lt. Eric Raney told CNN.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A powerful typhoon in Japan has left more than 100 flights canceled, 1 million households without power, and transport disrupted across major cities.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Tanyaradzwa 'Tanya' Muzinda is not your average teenager. At 15, she is already one of Zimbabwe's motocross champions.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Camilo Sesto was called \"one of the most iconic voices in Latin pop of the '70s and '80s\" by Billboard and sold over 100 million albums during his career.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Brian Stelter notes the milestone and Julie Roginsky says \"it's inexcusable\" for the White House press secretary not to hold regular on-camera press briefings. \"Somebody needs to be accountable for what the president is doing on a daily basis,\" she says. ( cn\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Ellliott Management, a top activist shareholder firm, disclosed Monday that it has taken a $3.2 billion stake in AT&T.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Congress returns Monday from a month-long recess struggling to resolve the difficult politics of gun control while trying to avoid yet another government shutdown in the Trump era.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "As a trade spat between Japan and South Korea drags on, travel between the two destinations is dropping -- and so are flight prices.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Drawing on her experience as a prosecutor, as California's attorney general and as a black woman, Sen. Kamala Harris unveiled a comprehensive criminal justice plan on Monday that pledges to shift away from mass incarceration and work toward a more equitable s\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A pair of heat waves in France have been linked to the deaths of 1,435 people this summer by the country's health ministry.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Follow along as we bring you the latest updates from the 2019 Frankfurt Motor Show.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Hurricane Dorian may have long since left the Bahamas, but the islands have only begun to grapple with the grim aftermath.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The sister of Los Angeles Clippers star Kawhi Leonard is one of two women charged in connection with an assault that left an 84-year-old woman dead, according to a report.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Four crew members of the Golden Ray are still missing nearly 24 hours after the cargo ship overturned in St. Simons Sound off the coast of Georgia.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Dow is looking to edge higher at Monday's open as the week gets going with a light economic calendar.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Imagine paying $200 for a smartwatch that can count your steps, run apps, stream notifications from your phone, and control your Spotify account, and only needs charged every five days or so.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "India has located the lander from its Chandrayaan-2 mission to soft land a rover on the moon but has not yet been able to establish communication, India's space agency said.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Boris Johnson will try to convince UK lawmakers to grant him a snap general election for the second time on Monday, as a way out of the parliamentary impasse that has stymied his efforts to take Britain out of the EU.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple has acknowledged that one of its supplier's factories in China violated some of its rules on working conditions, and says it's trying to correct those infractions.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN's Patrick Oppmann traveled by boat to the eastern-most point of Grand Bahama, an area decimated and cut off by Hurricane Dorian.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Rafael Nadal beat first-time grand slam finalist Daniil Medvedev in a five-set thriller at the US Open to win his 19th major Sunday. He's now only one major behind men's leader Roger Federer.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A massive storm surge in the Bahamas killed about 220 dogs and 50 cats in an animal shelter during Hurricane Dorian, according to staffers at the shelter.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "This month marks the five-year anniversary of our removal of tobacco from all our stores, and it remains a source of great pride for CVS Health.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "From Ballynahinch Castle in Galway to Lough Eske Castle in Donegal, these are the best castle stays in Ireland -- where you can live like royalty.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A plane carrying a delegation of government officials and Robert Mugabe's relatives left Zimbabwe for Singapore Monday to retrieve the body of the ex-president for his burial, a family spokesman said.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A same-sex penguin couple will raise an adopted \"genderless\" chick for the first time, a London aquarium announced Tuesday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "On Tuesday in North Carolina, voters will pick their new member of Congress in the 9th District. While it's only a single House seat and will have little obvious impact on the majority math for either party, there's real reason to believe that what happens in\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "New York Gov. Andrew Cuomo has signed a new law which mandates public schools across the state to allow a brief moment of silence each year to mark the anniversary of the September 11 terrorist attacks.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "There are few SUVs more famous than the Land Rover Defender, the classic off-roader. Now the British carmaker is hoping to extend the Defender's illustrious 70-year run with an all-new version unveiled Tuesday at the Frankfurt Motor Show.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A CNN review of court records shows that Carlsbad Medical Center in New Mexico has sued more than 3,000 people to collect debts over the past 10 years.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Moody's downgraded Ford's credit to junk Monday evening. It said the automaker faces considerable business challenges, and its poor financial performance badly positions Ford to take on its planned $11 billion restructuring.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "California Democratic Gov. Gavin Newsom on Monday signed two bills that limit medical exemptions for vaccines of schoolchildren.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Women wearing long silvery dresses and others in red capes and white bonnets set the atmosphere at a bookstore in London for the launch of \"The Testaments,\" Margaret Atwood's long-awaited sequel to \"The Handmaid's Tale.\"",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "For the next 10 days, the date can be read the same way forwards and backwards.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "Suicide is the second leading cause of death for young people between 10 and 24. Recognize the warning signs and see how to get help. Free 24-hour help is available.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Sweden's tallest mountain has lost its title, and climate change is to blame, as the glacier covering its summit continues to shrink due to rising temperatures, scientists have confirmed.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Steve Bullock's presidential campaign is seeking to reassure their donors with a memo that casts the race's frontrunner as flawed and unable to defeat President Donald Trump, days before the Montana governor is not among the top 10 candidates on the primary d\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Justice Neil Gorsuch sits down with CNN's Ariane de Vogue to talk about his relationship with Ruth Bader Ginsburg and Brett Kavanaugh.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The share of uninsured Americans rose for the first time in nearly a decade, the Census Bureau reported Tuesday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Baby monitors have come a long way. Where once parents were alerted to their baby's cries by a radio-like crackle, today's designs incorporate everything from video and motion sensors to temperature gauges.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "We're at Apple's big September event, where the company is widely expected to unveil the iPhone 11.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Alyson Stoner still knows how to \"Work It.\"",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The National Oceanic and Atmospheric Administration's acting administrator is standing by the agency's support of President Donald Trump's claims that Hurricane Dorian was likely to hit Alabama.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Federal prosecutors charged one of the top FEMA officials to respond to Puerto Rico after the hurricane there in 2017 with conspiracy to commit bribery and disaster fraud after she allegedly took gifts and favors from and steered recovery work toward a contra\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "New York's museums hold more than famous paintings -- they are also a treasure trove for fashion lovers. Check out the best museums in Manhattan and Brooklyn if fashion is what you crave.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The 150-pound green turtle was taken into surgery, and the spear was removed.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Here's what you might have missed on CNN.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Virginia Lt. Gov. Justin Fairfax on Thursday filed a lawsuit against CBS, alleging the network defamed him when it aired interviews earlier this year with two women who accused him of sexual assault.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "One day you're work buddies. Then, one of you gets promoted. What happens to the relationship?",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Heavy rain could be headed within days to islands in the northern Bahamas where teams are still searching for thousands of people missing since Hurricane Dorian.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "J.J. Abrams has closed a wide-ranging deal that would make WarnerMedia the exclusive home of his production company, Bad Robot.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A lion trophy from Tanzania has been approved for import to the US, the first such case since lions began receiving protections in January 2016 as a threatened species under the Endangered Species Act, a conservation group says.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The slide for Team USA men's basketball continues.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "GameStop's new CEO, George Sherman, says the company \"is in a tough place\" and \"needs to make some changes\" to keep up with the video game industry.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A former MIT Media Lab employee who participated in efforts to keep donations from Jeffrey Epstein anonymous said that his actions were in line with what he understood were policies \"authorized\" by MIT when he started working there.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Environmental Protection Agency on Thursday announced the repeal of the Obama-era Waters of the United States rule that extended federal authority and protections to streams and wetlands.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Margaret Atwood's dystopian novel \"The Handmaid's Tale\" and its TV adaptation veer too close to reality for many. In a dark hour, Atwood's sequel novel \"The Testaments\" offers some utopian promise that change and solidarity are possible, says Rebecca Wanzo.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Supreme Court's order Wednesday allowing new asylum restrictions to go into effect marks a significant win for President Donald Trump, who's faced several legal challenges in his attempt to implement a hard-line immigration agenda -- and could embolden hi\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "An 11-year-old girl went on a bike ride on Thanksgiving Day in 1972. The next day her body was found dumped on a rocky beach near the Pacific Ocean in Southern California. She'd been raped and strangled.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Hong Kong's bid to acquire the London Stock Exchange could be a game changer for global markets, but chances are it won't succeed.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "We've all been there. The first-day-of-school jitters. For one Wisconsin student it started on the school bus, last week.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Amazon said Thursday that it will hold a press event later this month in Seattle, where the company is headquartered.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "International human rights activists have slammed a decision by the Bill and Melinda Gates Foundation to hand India's controversial Prime Minister an award in recognition of his work to improve sanitation in the country.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN commentator Bakari Sellers opens up about his family's battle his daughter's rare liver condition and the importance of organ donations.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Seven people were taken to a hospital after a hot air balloon crash near Goodsprings, Nevada, about 40 miles southwest of Las Vegas, a hospital official said Thursday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "As the United States government gears up for its 2020 census, it's working closely with large tech companies to get ahead of potential malicious campaigns looking to exploit their platforms to deter people, including minorities, from taking part in the once-a\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Each day that passes without full cooperation from the administration is another in which we get closer to a permanent world in which the executive branch no longer regards Congress as an equal, says CNN legal analyst Elliot Williams;  this violation of basic\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Thomas Cook plane forced to divert because pilot spilled coffee",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Compostable alternatives to plastic could worsen marine pollution and have other serious environmental impacts, a report from a committee of UK MPs has warned.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Disagreements over the President's campaign promise of a border wall are threatening to derail spending negotiations on Capitol Hill, all but assuring Congress will need to pass a short-term continuing resolution in order to avert a government shutdown at the\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A federal judge on Thursday questioned whether there was enough evidence to uphold two guilty verdicts in a foreign lobbying case that stemmed from the Russia investigation and ensnarled a business partner of former Trump aide Michael Flynn.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The US Coast Guard released a safety bulletin asking the owners and operators of commercial boats to think about limiting the unsupervised charging of cellphones and other electronics that use lithium-ion batteries.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Earlier this year, astronomers were surprised to spot \"unprecedented\" changes in the supermassive black hole at the center of our galaxy. Now, they may have a better understanding of what they witnessed: the black hole enjoying an interstellar feast of gas an\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The star receiver has practiced with his new team, but whether he'll suit up for the New England Patriots this Sunday -- having just been accused of rape -- remains to be seen.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Rep. Chris Collins pleaded not guilty Thursday in Manhattan federal court to a revised indictment filed several weeks ago in an insider trading case in which he was originally charged in August 2018.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Sheila Bair was one of the few American regulators who sounded the alarm about the housing crisis a decade ago. Now, she worries the post-crisis guardrails are being dismantled at precisely the worst time.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Watch the Air Force test at hypersonic sled at speeds of 6,599 miles per hour.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Old Navy outlined plans Thursday to open 800 new stores, its first major announcement since the Gap, its parent company, announced it would spin off the lower-priced brand.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former White House staffer Omarosa Manigault Newman has filed a motion to dismiss the US government's lawsuit against her for failing to file a financial disclosure report.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Steven Van Alen, a young serial entrepreneur who loves to sleep, hit a home run with his latest venture -- a startup selling mattress topper to make dorm mattresses more comfortable and hygienic.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "Judge Indira Talwani made the right call in imposing a 14-day sentence based on Huffman's role in the Varsity Blues scandal, writes CNN legal analyst Joey Jackson.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Let me start by saying this: I don't want to take away all guns. In fact, I can't think of a politician or gun violence prevention advocate who has suggested repealing the Second Amendment. However, I do believe it should be really, really, hard \u2014 if not impo\u2026",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "A toilet made entirely of 18-carat-gold has been stolen from Blenheim Palace in Oxfordshire, England, the stately home where former prime minister Winston Churchill was born.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The family of a doctor who operated a clinic in Indiana sifted through his personal belongings after his death and found  2,246 medically preserved fetal remains, authorities said.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "An aid ship carrying 82 migrants rescued from the Mediterranean has been granted permission to dock on the Italian island of Lampedusa and for migrants to disembark, SOS Mediterranee and an Italian minister said on Twitter.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "An Ohio video gamer who played a role in a hoax phone call that led police to kill a man in Kansas was sentenced Friday to 15 months in prison, authorities said.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Bee Love Slater is the 18th known transgender person to be killed this year, the Human Rights Campaign said.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Landon Johnson,a 23-year-old diabetic who is running out of insulin and can't afford more, tells CNN affiliate WTVF he feels like he will die before he turns 30.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "After Apple's announcement of the Apple Watch Series 5 earlier this week, retailers are starting to discount Series 4 inventory. There's not a big difference between the Apple Watch Series 4 and Series 5, with the latter adding an always-on display and a comp\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Rahul Parikh writes that some parents who aren't anti-vaxxers are still hesitant to vaccinate their kids. We need to use new tactics to help them understand the necessity of immunizing children, he writes.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "After a 2018 Republican wipeout in Orange County, San Juan Capistrano Mayor Brian Maryott is betting that his record as \"a quiet leader\" can help turn the GOP's congressional fortunes around in Southern California.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Authorities have identified about $1 billion in wire transfers between the owners of pharmaceutical giant Purdue Pharma, the entities they control and different financial institutions, New York Attorney General Letitia James said Friday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Yemen's Houthi rebels have attacked Saudi Arabia's oil facilities with drones, the Houthi-run Al-Masirah news agency said Saturday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Boris Johnson never imagined it would be this hard.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Panicked shoppers thronged supermarket aisles, grabbing bags of salt by the armful. They queued six deep outside wholesalers. Most went home with only one or two bags; the lucky ones managed to snag a five-year supply before stocks ran out.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "Elizabeth Warren is the presidential candidate with a plan for just about everything -- but there's one significant exception when it comes to an issue that is top of mind for so many voters: health care.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The President's complaint about energy saving bulbs (\"The light's no good... I always look orange, and so do you!\") made the audience laugh. \"It was funny, especially the part about how everyone looks orange because, in fact, we don't,\" writes Michael D'Anton\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "We're just four days from Apple's big \"By Innovation Only\" on Sept. 10 event, where the Cupertino-based tech giant unveiled the 7th Generation iPad, Apple Watch Series 5, and of course, three new iPhones ---- the 11, 11 Pro and 11 Pro Max.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Apple's iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max are all up for preorder. And along with new smartphones come a plethora of accessories from Apple, with Incipio, Otterbox and Anker joining the accessory fun.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Bahamas missed the brunt of Tropical Storm Humberto, which is expected to become a hurricane Sunday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "If the United Kingdom leaves the European Union with a no-deal Brexit, travelers to the UK will potentially face huge queues as well as food shortages and civil unrest, according to warnings from experts and the document Operation Yellowhammer.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former Welsh rugby star Gareth Thomas has revealed he is HIV positive and has vowed to help \"break the stigma\" surrounding the illness.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Jessica Springsteen claimed the biggest win of her equestrian career Saturday after riding to victory in the Saint-Tropez leg of the Longines Global Champions Tour (LGCT).",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "It's not clear whether the wide receiver -- who signed with the New England Patriots just eight days ago -- will take the field after his former physical trainer accused him or rape and sexual assault.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN's Elizabeth Cohen reports on a 16-year-old with vaping-related illness as teens increasingly use e-cigarettes.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "At least 22 people were injured Saturday evening after a deck collapsed at a home in Wildwood, New Jersey, according to representatives for area hospitals.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "It's the beginning of the end for The CW's \"Supernatural.\" The TV series is kicking off its 15th and final season this fall, and The CW has released a promotional poster that appears to hint at what's to come for the long-suffering, demon-hunting Winchester b\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Stacey Abrams' advice to her party's 2020 candidates, a preview of this week's state dinner honoring Australia, the Democrats' shift their impeachment focus to corruption, and President Trump lends a hand to Benjamin Netanyahu. That and more in this week's In\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "New York Governor Andrew Cuomo says he is taking executive action to ban the sale of most flavored e-cigarettes in the state.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Thousands of climate protesters descended onto the streets of Frankfurt Saturday to protest against the role of Germany's car industry in climate change and the destruction of the environment.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "John Avlon writes we're divided by culture as much as politics. The roots of red state vs. blue state tribalism reflect the different ways we live in rural and urban America. But while these divides run deep, they are also simplistic stereotypes that are rein\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Hordes of dragonflies are showing up on weather radar and making things interesting for weather forecasters in the Eastern United States.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "US Navy Senior Chief Michael Forjan is home on leave from Iraq, where he has been serving since April 2019, and he decided to commemorate his arrival by surprising his kids at three different Florida schools in one day.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Russia heads to its second Rugby World Cup as a heavy underdog, but coach Lyn Jones has high hopes that the sport can one day thrive there.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Tin ingots recovered from a shipwreck in Israel have been discovered to have an unlikely origin -- Cornwall, in southwest England.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "TiVo revolutionized the way families watched cable two decades ago.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Documentary profiles notorious lawyer with Trump ties, whose approach helped shape the president's PR philosophy",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "CNN's John Avlon breaks down the contradictions between President Trump's claims of wanting \"crystal clean air\" and the policy decisions his administration is implementing, including recent changes to EPA regulations in California.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Roku announced an all-new Roku Express and an improved Roku Ultra on Thursday. The updated streaming players from Roku round out the company's product lineup, just in time for the holiday season and the launch of streaming services from Apple and Disney.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The world economy is slowing, and it could be headed toward a recession.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Instagram announced a new policy that will block, and sometimes remove, content promoting weight-loss or cosmetic procedures to younger teens.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "An epic clash at the UK Supreme Court over whether the British Prime Minister deliberately misled the Queen has ended -- and, as Westminster awaits its ruling, the government may have cause for concern.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "First lady Melania Trump, alongside a group of local fourth graders, helped cut the ribbon to re-open the Washington Monument, which had been under construction in the wake of a 2011 earthquake.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Impossible Burgers will hit grocery shelves for the first time on Friday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "After months of waiting, Apple's new software update for iPhones is almost here.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Judge Simon Cowell called it one of the best seasons ever and on Wednesday night, \"America's Got Talent\" crowned one of its most popular contestants.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The inspector general for the intelligence community has been unwilling so far to share details of the controversial whistleblower complaint that is at the center of a dispute between the director of national intelligence and Congress, as he answers questions\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Brad Pitt vehicle launches into brainy sci-fi realm",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Walmart CEO Doug McMillon on Thursday was named the incoming chairman of Business Roundtable, the prominent group of 192 chief executives representing corporate America's interests in Washington.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Canadian Prime Minister Justin Trudeau responded about a photo that recently surfaced of him appearing to wear 'brownface' at a party in 2001.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "We know that mysterious ancient humans called Denisovans once lived alongside Neanderthals, thanks to a few bones and teeth recovered from a cave in Siberia. Now, for the first time, researchers have shared what they might have looked like.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A middle school art teacher who was denied loan forgiveness by the Department of Education is going to Capitol Hill Thursday to explain why she's suing Secretary Betsy DeVos over the alleged mismanagement of the program.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Katy Perry and Taylor Swift ended their feud -- which Perry now calls a \"misunderstanding -- because of the young girls who look up to them.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former President Jimmy Carter made his feelings known on a Donald Trump victory in 2020, saying if Trump were reelected for a second term it would be \"a disaster.\"",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Hair drying is a tedious, yet essential, part of everyday life for many of us. So when there's an opportunity to do it better, quicker or in a way that's better for your hair, that's something worth noticing.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Always go to a job interview prepared with insightful questions to learn more about the role and to make sure the company is a good fit.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "\"Grey's Anatomy\" has returned to play with our emotions.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Historian Ruth Ben-Ghiat analyzes President Donald Trump's current situation amid an impending impeachment fight and argues that the hot water he finds himself in now reflects a predictable patttern for leaders like him who follow the authoritarian playbook.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "An Oklahoma man died after saving his 3-year-old granddaughter when their home exploded. CNN affiliate KFOR has the story.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Des Moines Register reporter who exposed a man's racist tweets from 2012 is no longer with the publication after readers revealed his own controversial social media posts.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Oil prices fell Friday on some signs that stability could return to the Middle East.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "If success in soccer was measured solely by results in the boardroom rather than on the field of play, then Manchester United would be the team to beat.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "A vital aspect of running a business is collecting and analyzing data. You can make this process far more straightforward with The Mastering Tableau Certification Bundle.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "President Donald Trump name-dropped American chipmaker Micron Technology this week, when delivering a speech to the United Nations about the longstanding US claim that China steals intellectual property.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Chicken noodle soup. Chicken noodle soup. Chicken noodle soup with a soda on the side.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "A group of former aides and allies to former Vice President Joe Biden are considering launching a super PAC to help the presidential candidate respond to attacks, multiple Democrats familiar with the plan tell CNN.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Everlast, the leading brand in boxing, has chosen an unlikely athlete to be the new face of the brand.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "All flavored e-cigarettes should be removed immediately as the number of high schoolers who use e-cigarettes soars, writes Robin Koval, CEO and president of Truth Initiative.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Two reports published Friday shed more light on the mysterious, growing outbreak of lung injury cases linked to vaping, highlighting the prevalence of THC-containing products in particular.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The smartwatch market suddenly feels crowded, but in a good way. Fitbit's Versa 2 is a straightforward watch that functions as a minimal smartwatch. The Apple Watch does it all, as long as you're an iPhone user. And Samsung's Galaxy Watch line fills the gap t\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Carving out time to sit down and read a whole book is great, but what if you want to digest something in less time? That won't replace the joy of a great novel or nonfiction work, but it can entertain and occupy your time while commuting on the train.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "You can do exactly what super successful mogul and celebrity Jessica Simpson did to lose weight -- and it won't cost you a dime.",
+    "label": 0,
+    "prediction": "1"
+  },
+  {
+    "text": "We have made great strides with medical marijuana, but we've also repeated some of the same mistakes that led cannabis to be vilified and misunderstood in the first place. Hype and echo chambers are never a friend to science or clear-eyed thinking.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Lower heat and colder water in today's energy-saving washing machines may not kill enough bad germs and could lead to potentially dangerous outcomes.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "A rescue on the high seas. One judge was SMH IRL. And this 5-year-old has a wild encounter. These are the must-see videos for the week:",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Action camera maker GoPro on Tuesday announced the Hero 8, its flagship camera packed full of new features and capabilities aimed at adrenaline junkies. GoPro also unveiled the Max, a dual-lens camera that looks a lot like the GoPro Fusion, the company's firs\u2026",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The United States and North Korea plan to resume working-level talks next week, according to the US State Department.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Former special counsel Robert Mueller has returned to work at the private law firm WilmerHale, the firm announced Tuesday.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "GoPro's new Hero 8 Black, which was unveiled on Tuesday, is a bold and rugged action camera with a new streamlined design that builds on the capabilities of the Hero 7.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Ford is beating a retreat from India's large but struggling car market.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "Russell Bucklew suffers from a rare blood vessel disorder called cavernous hemangioma. The disease can cause tumors in the head and regular bleeding from the mouth, nose, eyes and ears.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "E-cig maker Juul Labs, headquartered in San Francisco, will end its support for a ballot measure that would roll back the city's ordinance that effectively bans e-cigarette sales in the city.",
+    "label": 0,
+    "prediction": "0"
+  },
+  {
+    "text": "The Dow and the broader US stock market are set to start the fourth quarter off higher. The market is treating no trade news as good news.",
+    "label": 0,
+    "prediction": "0"
+  }
+]
